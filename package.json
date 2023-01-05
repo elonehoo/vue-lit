@@ -1,0 +1,17 @@
+{
+  "name": "vue-lit",
+  "version": "0.0.0",
+  "description": "proof of concept custom elements framework powered by @vue/reactivity + lit-html",
+  "scripts": {},
+  "main": "index.js",
+  "keywords": [
+    "vue",
+    "lit"
+  ],
+  "author": "Elone Hoo <elonehoo@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@vue/reactivity": "^3.2.45",
+    "lit-html": "^2.5.0"
+  }
+}
