@@ -16,7 +16,7 @@
   },
   "dependencies": {
     "lit": "^2.4.1",
-    "vue-lit": "workspace:*"
+    "vue-lit-html": "workspace:*"
   },
   "devDependencies": {
     "vite": "^4.0.0"

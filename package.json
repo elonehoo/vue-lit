@@ -1,5 +1,5 @@
 {
-  "name": "vue-lit",
+  "name": "vue-lit-html",
   "version": "0.0.0",
   "description": "proof of concept custom elements framework powered by @vue/reactivity + lit-html",
   "scripts": {},
